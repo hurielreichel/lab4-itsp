@@ -3,7 +3,7 @@ This repository defines many geometry classes and allows you to run a unit test 
 
 ## Purpose
 
-Inside *lab4* you may find many class definitions of different geometries. Those are **Point**, **Rectangle**, **Circle** and *Shape**. The *Test.py* script is meant to pass a unit test to all the functions from these classes. It is important to mention that all classes inherit the Shape Class.  
+Inside *lab4* you may find many class definitions of different geometries. Those are **Point**, **Rectangle**, **Circle** and **Shape**. The *Test.py* script is meant to pass a unit test to all the functions from these classes. It is important to mention that all classes inherit the Shape Class.  
 
 ## Usage
 
